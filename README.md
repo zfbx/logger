@@ -1,12 +1,7 @@
 # logger
-<h1 align="center">
-	Logger
-</h1>
-
 > A simple node console logger with optional timestamps and color
 
 ---
-
 
 ## Highlights
 
