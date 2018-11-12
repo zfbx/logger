@@ -1,0 +1,26 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "simple console logger with time and color",
+  "main": "logger.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zfbx/logger.git"
+  },
+  "keywords": [
+    "log",
+    "console",
+    "color",
+    "time",
+    "simple"
+  ],
+  "author": "zfbx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zfbx/logger/issues"
+  },
+  "homepage": "https://github.com/zfbx/logger#readme"
+}
